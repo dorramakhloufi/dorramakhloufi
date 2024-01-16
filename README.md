@@ -3,8 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dorramakhloufi&label=Profile%20views&color=0e75b6&style=flat" alt="dorramakhloufi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dorramakhloufi" alt="dorramakhloufi" /></a> </p>
-
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nour85178&no-frame=true&no-bg=true&row=1&column=2" alt="GitHub Profile Trophies" />
+  </a>
+</p>
 - 🔭 I’m currently looking for **end of studies internship**
 
 - 👨‍💻 All of my projects are available at [https://dorramakhloufi.github.io/Makhloufi-Dorra](https://dorramakhloufi.github.io/Makhloufi-Dorra)
